@@ -1,2 +1,5 @@
 # ATM
-simple ATM machine for beginner (loops and statement) using cpp . 
+
+# ATM machine for beginner
+  For beginner.
+  
